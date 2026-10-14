@@ -1,0 +1,2 @@
+D:\UE Projekts\MyProject 1\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Definitions.MyProject.h
+D:\UE Projekts\MyProject 1\Source\MyProject\MAVLinkParser.h

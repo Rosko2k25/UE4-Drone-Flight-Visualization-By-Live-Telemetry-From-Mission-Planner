@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MyProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE Projekts\MyProject 1\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE Projekts\MyProject 1\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MAVLinkParser.cpp.obj"
+"D:\UE Projekts\MyProject 1\Intermediate\Build\Win64\UE4Editor\Development\MyProject\MyProject.cpp.obj"
+"D:\UE Projekts\MyProject 1\Intermediate\Build\Win64\UE4Editor\Development\MyProject\Default.rc2.res"
+/OUT:"D:\UE Projekts\MyProject 1\Intermediate\Build\Win64\UE4Editor\Development\MyProject\UE4Editor-MyProject.lib"
